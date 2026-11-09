@@ -1,0 +1,73 @@
+{
+ "version": 1,
+ "agrupador": {
+  "unir": [],
+  "separar": [],
+  "distintos": [],
+  "grupos": {}
+ },
+ "equiv": {
+  "NIM": "NESTLE",
+  "NP": "NESTLE",
+  "BIGOTT": "DISTRIBUIDORA BIGOTT",
+  "LA NORMANDA": "NORMANDA"
+ },
+ "unidades": {
+  "codigos": {
+   "UNI": "UNI",
+   "UND.": "UNI",
+   "UND": "UNI",
+   "UN": "UNI",
+   "UNIDAD": "UNI",
+   "CAJ": "CAJ",
+   "CAJAS": "CAJ",
+   "CAJA": "CAJ",
+   "CJ": "CAJ",
+   "CJAX36": "CAJ",
+   "DIS": "DIS",
+   "DISPLAY": "DIS",
+   "BUL": "BUL",
+   "BULTO": "BUL",
+   "KG": "KG",
+   "KG.": "KG",
+   "KGS": "KG",
+   "SIX": "SIX",
+   "MAN": "MAN",
+   "MBU": "MBU",
+   "MULTIPACK": "MUL",
+   "#EMP": "CAJ"
+  },
+  "nombres": {
+   "UNI": "Unidad",
+   "CAJ": "Caja",
+   "DIS": "Display",
+   "BUL": "Bulto",
+   "KG": "Kilo",
+   "SIX": "Six pack",
+   "MAN": "Mano",
+   "MBU": "Multibulto",
+   "MUL": "Multipack"
+  }
+ },
+ "sugerido": {
+  "ventana": 90,
+  "reciente": 30,
+  "pesoReciente": 0.5,
+  "cobertura": 15,
+  "seguridad": 5,
+  "exceso": 60,
+  "redondeo": 0.25
+ },
+ "marcas": {},
+ "cigarros": {
+  "un": "BIGOTT|CIGARR",
+  "linea": "TABACO|CIGARR"
+ },
+ "noProducto": [
+  "AJUSTES"
+ ],
+ "excluirClientes": [
+  "INLUVENCA"
+ ],
+ "actualizado": "2026-11-09T14:18:39.318Z"
+}
